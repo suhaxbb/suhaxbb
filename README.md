@@ -1,7 +1,7 @@
 # Hi there, I'm Mohammed Suhaib Shabbir 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l1J9qemh1La8b0Rag/giphy.gif" width="500" />
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" />
 </div>
 
 ---
