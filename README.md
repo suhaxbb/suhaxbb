@@ -8,7 +8,7 @@
 
 ## 🌟 Business Analytics | Data-Driven Decision Maker | Financial Strategy Enthusiast
 
-I'm a **Business Analytics** postgraduate student at **Humber College**, passionate about leveraging data for smarter business decisions. With a solid background in **Finance**, I specialize in **data visualization**, **financial analysis**, and **process optimization** to enhance business growth and operational efficiency.
+ A **Business Analytics** postgraduate student at **Humber College**, passionate about leveraging data for smarter business decisions. With a solid background in **Finance**, I specialize in **data visualization**, **financial analysis**, and **process optimization** to enhance business growth and operational efficiency.
 
 ---
 
