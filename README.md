@@ -52,7 +52,7 @@ I enjoy finding the signal in the noise — turning unstructured data into clear
 • Improved financial reporting accuracy by 15% through data reconciliation  
 • Automated reporting workflows, saving several analyst hours weekly  
 
-**Business Analyst – Infrability IT Solutions**  
+**Business Data Consultant – Infrability IT Solutions**  
 *Hyderabad, IN · Oct 2022 – May 2023*  
 • Supported Microsoft Dynamics 365 rollout and data migration  
 • Automated Excel reports with VBA, cutting update time by 25%  
